@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirag
 - 👀 I’m interested in Data, Cloud, DevOps, AI, etc
-- 🌱 I’m currently learning Data enginnering, Soloutions engineering, Site reliability engineering, etc
+- 🌱 I’m currently learning Data enginnering, Site reliability engineering, etc
 - 💞️ I’m looking to collaborate on Data and Cloud Solutions
 
 
